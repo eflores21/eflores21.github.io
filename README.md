@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Table of Content
 
-You can use the [editor on GitHub](https://github.com/eflores21/eflores21.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- [Introduction](#introduction)
+- [Interests outside of Programming](#interests-outside-of-programming)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
 
-### Markdown
+Hello! My name is Edgar Flores and I am a Computer Science and Engineering major at the University of California, San Diego. In my studies, I have taken courses pertaining to the subjects of **Advanced Data Structures**, **Discrete Mathematics**, **Theory of Computability**, **Systems Programming**, **Data Science**, and **Machine Learning**. I am also skilled in **C**, **C++**, **Java**, and **Data Analysis using Python and Pandas**.     
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interests outside of Programming
 
-```markdown
-Syntax highlighted code block
+I have a bunch of interests outside of programming! I'm a bit of a hobby collector and I love challenging myself and teaching myself new things. Some of my hobbies are:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- Classical and Contemporary Piano
+- Classical and Contemporary Guitar
+- Electronic Music Production
+- Filmography/Photography
+- Cooking/Baking
+- Video Gaming
+- Strength and Endurance Training
+- Reading
+- Meditation
+- Building Personal Servers and Keeping up with New and Exciting Tech! 
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eflores21/eflores21.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
